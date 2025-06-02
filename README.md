@@ -19,15 +19,14 @@ Any static website files (HTML, CSS, JS)
 
 1. Create a Repository
 
-Go to GitHub and create a new repo named:
-<yourusername>.github.io
-(Replace <yourusername> with your actual GitHub username)
+Go to GitHub and create a new repo named:https://github.com/ThirumlaeshVardelli/VardelliThirumaleshi.github.io
+
 
 
 
 2. Clone the Repository Locally
 
-git clone https://github.com/<yourusername>/<yourusername>.github.io
+git clonehttps://github.com/ThirumlaeshVardelli/VardelliThirumaleshi.github.io
 cd <yourusername>.github.io
 
 
@@ -56,8 +55,7 @@ Click Save
 
 6. Access Your Live Website
 
-After a few minutes, your website will be live at:
-https://<vardelliThirumalesh>.github.io
+After a few minutes, your website will be live at:https://<vardelliThirumalesh>.github.io
 
 
 
