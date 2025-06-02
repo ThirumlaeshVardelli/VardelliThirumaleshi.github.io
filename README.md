@@ -27,7 +27,7 @@ Go to GitHub and create a new repo named:
 
 2. Clone the Repository Locally
 
-git clone https://github.com/vardelliThirumalesh>/vardelliThirumalesh>.github.io
+git clone https://github.com/<yourusername>/<yourusername>.github.io
 cd <yourusername>.github.io
 
 
@@ -57,7 +57,7 @@ Click Save
 6. Access Your Live Website
 
 After a few minutes, your website will be live at:
-https://<yourusername>.github.io
+https://<vardelliThirumalesh>.github.io
 
 
 
@@ -80,7 +80,7 @@ Use your live URL to showcase your portfolio or demos.
 
 
 
- Outcome
+🎯 Outcome
 
 By completing this task, you’ll understand:
 
@@ -89,3 +89,4 @@ Basic version control with Git and GitHub
 Hosting static websites
 
 Deployment workflow using GitHub Pages
+
