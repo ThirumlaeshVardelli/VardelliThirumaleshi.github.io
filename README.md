@@ -55,7 +55,7 @@ Click Save
 
 6. Access Your Live Website
 
-After a few minutes, your website will be live at:https://<vardelliThirumalesh>.github.io
+After a few minutes, your website will be live at:https://thirumlaeshvardelli.github.io/VardelliThirumaleshi.github.io/
 
 
 
